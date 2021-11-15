@@ -189,3 +189,6 @@
     background: linear-gradient(135deg, #44A08D, #093637);
 }
 
+.link-body-background-dark {
+    background: #000000;
+}
