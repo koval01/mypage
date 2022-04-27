@@ -93,7 +93,8 @@ a {
   border: 0;
   vertical-align: baseline;
   text-decoration: none;
-  margin: 5px; }
+  margin: 5px; 
+  font-size: .6em; }
 
 ol, ul {
   list-style: none; }
