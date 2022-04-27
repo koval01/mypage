@@ -125,8 +125,8 @@ li {
 
 .noselect {
   -webkit-touch-callout: none;
-    -webkit-touch-callout--webkit-user-select: none;
-      -webkit-touch-callout--webkit-user-select--khtml-user-select: none;
-        -webkit-touch-callout--webkit-user-select--khtml-user-select--moz-user-select: none;
-          -webkit-touch-callout--webkit-user-select--khtml-user-select--moz-user-select--ms-user-select: none;
-            -webkit-touch-callout--webkit-user-select--khtml-user-select--moz-user-select--ms-user-select-user-select: none; }
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none; }
