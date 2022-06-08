@@ -132,4 +132,5 @@ li {
             user-select: none; }
 
 hr {
-  border-style: solid !important; }
+  border-style: solid;
+  color: #fff; }
