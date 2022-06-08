@@ -130,3 +130,6 @@ li {
        -moz-user-select: none;
         -ms-user-select: none;
             user-select: none; }
+
+hr {
+  border-style: solid !important; }
