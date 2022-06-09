@@ -137,3 +137,9 @@ hr {
 
 h4 {
   text-decoration: underline; }
+
+.icon_svg_fa {
+    filter: invert(1);
+    width: 5vw;
+    min-width: 32px;
+    max-width: 48px; }
